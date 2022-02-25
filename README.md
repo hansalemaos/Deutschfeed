@@ -14,7 +14,7 @@
 </p><br>
 
 
-# Deutschfeed
+# Deutschfeed [DOWNLOAD THE INSTALLER HERE](https://github.com/hansalemaos/Deutschfeed/raw/main/deutschfeed_setup.exe)
 
 
 
